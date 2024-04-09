@@ -1,0 +1,5 @@
+a) Khóa công khai của An: PU = {31, 437}
+b) Khóa riêng của An: PR = {115, 437}
+c) Bản mã C = 242
+d) Thông điệp giải mã M = 41
+e) Việc mã hóa ở câu c) thực hiện nhiệm vụ chữ ký số.

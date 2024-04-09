@@ -1,0 +1,1 @@
+Output: a = 5 là căn nguyên thủy của n = 257

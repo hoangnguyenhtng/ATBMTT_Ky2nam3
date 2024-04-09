@@ -1,0 +1,6 @@
+a) Cách An tính ra khóa công khai yA và khóa phiên K:
+yA = 1101
+K = 7640
+b) Cách Ba tính ra khóa công khai yB và khóa phiên K:
+yB = 3226
+K = 7640

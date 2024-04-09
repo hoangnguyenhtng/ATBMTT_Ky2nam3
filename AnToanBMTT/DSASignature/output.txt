@@ -1,0 +1,3 @@
+Khóa công khai của An (yA): 17
+Chữ ký số của An cho bản tin M (r, s): (2, 9)
+Chữ ký số được xác minh thành công!

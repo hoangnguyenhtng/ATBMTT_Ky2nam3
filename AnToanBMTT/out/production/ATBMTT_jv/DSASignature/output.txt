@@ -1,0 +1,6 @@
+a) Khóa công khai của An: 17
+b) Chữ ký số của An cho bản tin M: (2, 17)
+c) Cách Ba xác minh chữ ký số:
+   - Tính lại r' = (yA^r * h^s) mod p
+   - Kiểm tra r' có bằng r không. Nếu bằng, chữ ký là hợp lệ.
+   Kết quả: Chữ ký không hợp lệ

@@ -1,0 +1,3 @@
+a) Khóa công khai của An: PU = {7243, 3, 4364}
+b) Bản mã (C1, C2) = (3862, 1406)
+c) Thông điệp giải mã M = 428
